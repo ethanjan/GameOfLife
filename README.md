@@ -9,3 +9,7 @@ Because this program reads input from the file named "life100.txt", it is necess
 
 ## Usage
 In order to utilize this program, it is necessary to first download this project and Eclipse and to import this project within Eclipse. Afterwards, it is necessary to execute this program within Eclipse. Furthermore, to change the starting parameters of this program, it is necessary to change the values in the file named "life100.txt." The number of generations to be simulated can also be altered within the tester class.
+
+## Images
+![GameOfLifeBeginning](https://user-images.githubusercontent.com/8474410/89722927-5b6dae00-d9a4-11ea-80df-6f5d05fbf5c5.png)
+![GameOfLifeEnding](https://user-images.githubusercontent.com/8474410/89722929-5d377180-d9a4-11ea-9ab9-f10a46fb8911.png)
